@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebViewApplication</string>
+    <string name="startingpoint">You are back at the start."</string>
+</resources>
